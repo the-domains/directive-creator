@@ -1,0 +1,28 @@
+name: Directive Creator
+favicon: null
+layout_spectrum: 0.6753302817232907
+typography_spectrum: 0.33263188507407904
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.26945708226412535
+  lightness: 0.8431638479232788
+  saturation: 0.04474795586429536
+  rhythmicContrast: 0.7466427879408002
+purpose: []
